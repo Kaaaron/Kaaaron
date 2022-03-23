@@ -6,7 +6,7 @@ Currently I work at [Claymore Game Studios](https://claymore-games.com/) on the 
 
 My main portfolio can be found on my [Artstation Profile](https://www.artstation.com/aaronkemner).
 
-I enjoy long walks on the beach, candle light dinners, puppies and nicely animated violence.
+I enjoy long walks on the beach, candle light dinners, puppies and animated violence.
 
 ### Main Tools:
 Blender, Maya, Unreal Engine
