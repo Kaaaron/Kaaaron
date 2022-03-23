@@ -8,8 +8,8 @@ My main portfolio can be found on my [Artstation Profile](https://www.artstation
 
 I enjoy long walks on the beach, candle light dinners, puppies and nicely animated violence.
 
-###Main Tools:
+### Main Tools:
 Blender, Maya, Unreal Engine
 
-###Main Programming Languages:
+### Main Programming Languages:
 Python, C++
