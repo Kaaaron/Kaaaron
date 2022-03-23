@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**Kaaaron/Kaaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aaron, a rigger/animator/technical animator in the games industry, currently based in germany.
 
-Here are some ideas to get you started:
+Currently I work at [Claymore Game Studios](https://claymore-games.com/) on the next entry in the long standing "Commandos"-Series.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main portfolio can be found on my [Artstation Profile](https://www.artstation.com/aaronkemner).
+
+I enjoy long walks on the beach, candle light dinners, puppies and nicely animated violence.
+
+###Main Tools:
+Blender, Maya, Unreal Engine
+
+###Main Programming Languages:
+Python, C++
