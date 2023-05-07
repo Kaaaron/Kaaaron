@@ -10,7 +10,7 @@ I enjoy long walks on the beach, candle light dinners, puppies and animated viol
 
 ### My Plugins:
 
-[Animation Actor System Product Page](https://www.unrealengine.com/marketplace/en-US/product/300fa96794fc4916be6a1db151a72477) and the [Animation Actor System Docs]([https://github.com/Kaaaron/AnimationActorSystemDocs](https://github.com/Kaaaron/AnimationActorSystemDocs/wiki)
+[Animation Actor System Product Page](https://www.unrealengine.com/marketplace/en-US/product/300fa96794fc4916be6a1db151a72477) and the [Animation Actor System Docs](https://github.com/Kaaaron/AnimationActorSystemDocs/wiki)
 
 ### Main Tools:
 Blender, Maya, Unreal Engine
